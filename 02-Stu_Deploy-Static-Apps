@@ -1,0 +1,4 @@
+<script>start("c:\\Users\\jared\\FSF-PT-EAST-DECEMBER-120224\\20-Deployment-CI-CD\\01-Activities\\02-Stu_Deploy-Static-Apps\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("Develop","Develop",1,0,"0 B",1745883248,"4/28/25, 6:34:08 PM");</script>
+<script>addRow("README.md","README.md",0,812,"812 B",1745883248,"4/28/25, 6:34:08 PM");</script>

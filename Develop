@@ -1,0 +1,11 @@
+<script>start("c:\\Users\\jared\\FSF-PT-EAST-DECEMBER-120224\\20-Deployment-CI-CD\\01-Activities\\02-Stu_Deploy-Static-Apps\\Develop\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("public","public",1,0,"0 B",1745883248,"4/28/25, 6:34:08 PM");</script>
+<script>addRow("src","src",1,0,"0 B",1745883248,"4/28/25, 6:34:08 PM");</script>
+<script>addRow(".eslintrc.cjs",".eslintrc.cjs",0,454,"454 B",1745883248,"4/28/25, 6:34:08 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,277,"277 B",1745883248,"4/28/25, 6:34:08 PM");</script>
+<script>addRow("index.html","index.html",0,373,"373 B",1745883248,"4/28/25, 6:34:08 PM");</script>
+<script>addRow("package.json","package.json",0,995,"995 B",1745883248,"4/28/25, 6:34:08 PM");</script>
+<script>addRow("tsconfig.json","tsconfig.json",0,630,"630 B",1745883248,"4/28/25, 6:34:08 PM");</script>
+<script>addRow("tsconfig.node.json","tsconfig.node.json",0,223,"223 B",1745883248,"4/28/25, 6:34:08 PM");</script>
+<script>addRow("vite.config.ts","vite.config.ts",0,344,"344 B",1745883248,"4/28/25, 6:34:08 PM");</script>
